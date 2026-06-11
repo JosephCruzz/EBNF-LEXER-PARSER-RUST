@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/workspaces/EBNF-LEXER-PARSER-RUST/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/MyProject.dir/main.cpp.o -c /workspaces/EBNF-LEXER-PARSER-RUST/main.cpp",
+  "file": "/workspaces/EBNF-LEXER-PARSER-RUST/main.cpp",
+  "output": "CMakeFiles/MyProject.dir/main.cpp.o"
+},
+{
+  "directory": "/workspaces/EBNF-LEXER-PARSER-RUST/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/MyProject.dir/Lexer.cpp.o -c /workspaces/EBNF-LEXER-PARSER-RUST/Lexer.cpp",
+  "file": "/workspaces/EBNF-LEXER-PARSER-RUST/Lexer.cpp",
+  "output": "CMakeFiles/MyProject.dir/Lexer.cpp.o"
+}
+]

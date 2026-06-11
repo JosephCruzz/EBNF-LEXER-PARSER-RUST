@@ -1,0 +1,3 @@
+/workspaces/EBNF-LEXER-PARSER-RUST/build/CMakeFiles/MyProject.dir
+/workspaces/EBNF-LEXER-PARSER-RUST/build/CMakeFiles/edit_cache.dir
+/workspaces/EBNF-LEXER-PARSER-RUST/build/CMakeFiles/rebuild_cache.dir
